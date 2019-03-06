@@ -11,7 +11,7 @@
 [Follow us on Twitter](http://twitter.com/fluence_one)
 
 ## Resourses And Tutorials
-Detailed task-specific tutorails could be fourn here:
+Detailed task-specific tutorials could be found here:
 
 - [a simple SQL database](https://github.com/fluencelabs/tutorials/tree/master/llamadb), [example](http://llamadb.fluence.network/)
 - [a tic-tac-toe game](https://github.com/fluencelabs/tutorials/tree/master/tic-tac-toe), [example](http://tictactoe.fluence.network/)
