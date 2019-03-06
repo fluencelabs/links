@@ -1,6 +1,4 @@
-# Fluence Devnet Workshop
-
-This repository contains a list of resources that will help you to get started with Fluence.
+# Fluence Devnet Links
 
 ## [Discord](https://discord.gg/AjfbDKQ)
 
