@@ -1,5 +1,3 @@
-# Fluence Devnet Links
-
 ## [Discord](https://discord.gg/AjfbDKQ)
 
 ## [Fluence Network Dashboard](http://dash.fluence.network/)
