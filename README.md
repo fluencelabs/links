@@ -2,7 +2,7 @@
 
 This repository contains a list of resources that will help you to get started with Fluence.
 
-## [Discord](https://discord.gg/AjfbDKQ).
+## [Discord](https://discord.gg/AjfbDKQ)
 
 ## [Fluence Network Dashboard](http://dash.fluence.network/)
 
