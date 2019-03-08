@@ -9,7 +9,7 @@ Detailed task-specific tutorials can be found here:
 - [Simple SQL database](http://sql.fluence.network/) ([GitHub](https://github.com/fluencelabs/tutorials/tree/master/llamadb))
 - [Tic-tac-toe game](http://tictactoe.fluence.network/) ([GitHub](https://github.com/fluencelabs/tutorials/tree/master/tic-tac-toe))
 
-[The Fluence Book](https://fluence.network/docs/book/introduction/index.html) contains the network documentation: overview, quickstart, backend and CLI guides.
+[The Fluence Book](https://fluence.network/docs/book/) contains the network documentation: overview, quickstart, backend and CLI guides.
 
 ## Other Resources
 
