@@ -13,5 +13,5 @@ Detailed task-specific tutorials can be found here:
 
 ## Other Resources
 
-[Fluence GitHub](https://github.com/fluencelabs/fluence)  
-[Fluence Twitter](http://twitter.com/fluence_one)
+- [Fluence GitHub](https://github.com/fluencelabs/fluence)  
+- [Fluence Twitter](http://twitter.com/fluence_one)
