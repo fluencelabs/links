@@ -2,7 +2,7 @@
 
 ## [Fluence Network Dashboard](http://dash.fluence.network/)
 
-## Resourses and Tutorials
+## Tutorials and Docs
 Detailed task-specific tutorials can be found here:
 
 - [Dice game](http://dice.fluence.network/) ([GitHub](https://github.com/fluencelabs/tutorials/tree/master/dice-game))
@@ -11,7 +11,7 @@ Detailed task-specific tutorials can be found here:
 
 [The Fluence Book](https://fluence.network/docs/book/introduction/index.html) contains the network documentation: overview, quickstart, backend and CLI guides.
 
-### Other Contacts
+## Other Resources
 
 [Fluence GitHub](https://github.com/fluencelabs/fluence)  
 [Fluence Twitter](http://twitter.com/fluence_one)
