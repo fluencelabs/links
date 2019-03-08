@@ -2,20 +2,16 @@
 
 ## [Fluence Network Dashboard](http://dash.fluence.network/)
 
+## Resourses and Tutorials
+Detailed task-specific tutorials can be found here:
+
+- [Dice game](http://dice.fluence.network/) ([GitHub](https://github.com/fluencelabs/tutorials/tree/master/dice-game))
+- [Simple SQL database](http://sql.fluence.network/) ([GitHub](https://github.com/fluencelabs/tutorials/tree/master/llamadb))
+- [Tic-tac-toe game](http://tictactoe.fluence.network/) ([GitHub](https://github.com/fluencelabs/tutorials/tree/master/tic-tac-toe))
+
+[The Fluence Book](https://fluence.network/docs/book/introduction/index.html) contains the network documentation: overview, quickstart, backend and CLI guides.
+
 ### Other Contacts
 
-[Fluence Network website](http://fluence.network/)
-
-[Main GitHub repository](https://github.com/fluencelabs/fluence)
-
-[Follow us on Twitter](http://twitter.com/fluence_one)
-
-## Resourses And Tutorials
-Detailed task-specific tutorials could be found here:
-
-- [a simple SQL database](https://github.com/fluencelabs/tutorials/tree/master/llamadb), [example](http://llamadb.fluence.network/)
-- [a tic-tac-toe game](https://github.com/fluencelabs/tutorials/tree/master/tic-tac-toe), [example](http://tictactoe.fluence.network/)
-- [a guessing game](https://github.com/fluencelabs/tutorials/tree/master/guessing-game) based on Rust tutorial, [example](http://guess.fluence.network/)
-- [a dice game](https://github.com/fluencelabs/tutorials/tree/master/dice-game), [example](http://dice.fluence.network/)
-
-[The Fluence Book](https://fluence.network/docs/book/introduction/index.html) - documentation on Fluence Network, including an overview and basic tutorials.
+[Fluence GitHub](https://github.com/fluencelabs/fluence)  
+[Fluence Twitter](http://twitter.com/fluence_one)
